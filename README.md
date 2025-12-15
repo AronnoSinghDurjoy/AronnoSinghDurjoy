@@ -1,6 +1,6 @@
 ### 💫About Me :
 I'm Arnop Singh Durjoy, a freshly minted computer science graduate with a passion for bridging the gap between pixels and prose. My mind thrives on the logical precision of code, yet yearns for the boundless creativity of storytelling. This unique blend fuels my drive to craft web experiences that not only function flawlessly but also captivate the imagination.My academic journey honed my technical skills,equipping me with a proficiency in web development languages.  
-[https://arnopsinghdurjoy.me/ ]
+[https://aronnosinghdurjoy.github.io/ ]
 
 ### 🌐Connect With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ArnopSinghAronno/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/a_s_godse/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnopsingharonno-464194213/)
